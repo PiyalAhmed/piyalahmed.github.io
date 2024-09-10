@@ -46,4 +46,4 @@ I'm always open to new opportunities, collaborations, and discussions. Feel free
 
 ---
 
-**Piyal Ahmed | Software Engineer | Java | Microservices | Bangladesh**
+Piyal Ahmed | Software Engineer | Java | Microservices | Bangladesh
